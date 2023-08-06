@@ -1,0 +1,22 @@
+<main>
+    <section>
+        <h1>Join the Waitlist for Our Comprehensive Affiliate Marketing Course!</h1>
+        <p>Unlock your potential in the exciting world of affiliate marketing. Sign up now to get exclusive early access
+            and special launch offers.</p>
+        <form action="https://your-email-marketing-service.com/subscribe" method="post">
+            <!-- Replace the above 'action' attribute with your actual email marketing service form URL -->
+            <input type="email" name="email" placeholder="Enter your email address" required>
+            <button type="submit">Join Waitlist</button>
+        </form>
+    </section>
+
+    <section>
+        <!-- Add more sections and content about your course here -->
+    </section>
+</main>
+
+<footer>
+    <p>&copy; 2023 Your Company. All rights reserved.</p>
+</footer>
+
+<!-- Add your JavaScript code or external scripts here (optional) -->
